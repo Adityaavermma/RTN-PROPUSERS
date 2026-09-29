@@ -1,0 +1,95 @@
+listing_id,listed_date,city,locality,property_type,bhk,area_sqft,price_lakh,lead_source,agent_id,days_on_market,status
+2041,2026-4-17,Noida,Sector 150,Apartment,3.0,1779,0.8,WhatsApp,AG09,6,Available
+2038,2026-7-16,Greater Noida,Alpha 1,Builder Floor,3.0,2583,175.7,Walk-in,AG12,95,Sold
+2053,2026-7-03,Noida,Sector 150,Apartment,2.0,1774,212.9,Website,AG06,90,Available
+2075,2026-6-13,Gurgaon,Sector 82,Residential Plot,,2400,224.5,App,AG06,98,Sold
+2055,2026-5-04,Gurgaon,Sohna Road,Villa,3.0,2613,302.2,Walk-in,AG01,27,Sold
+2021,2026-7-03,Noida,Sector 150,builder floor,2.0,1160,132.3,WhatsApp,AG01,13,Available
+2011,2026-4-25,Noida,Sector 62,Builder Floor,2.0,45000,105.3,Walk-in,AG06,36,Available
+2050,2026-6-04,GURGAON,Sector 62,Builder Floor,3.0,2247,184.4,Walk-in,AG11,48,Available
+2035,07/4/2026,Ghaziabad,Raj Nagar Extension,Villa,4.0,2016,126.1,App,AG07,15,Available
+2029,2026-4-09,GURGAON,Sohna Road,Residential Plot,,,117.8,Walk-in,AG01,12,Available
+2051,2026-4-25,Greater Noida,Greater Noida West,Residential Plot,,900,39.3,Walk-in,AG10,6,Sold
+2033,2026-5-13,Noida,Sector 62,Builder Floor,2.0,1596,141.9,App,AG02,47,Sold
+2018,2026-5-03,Greater noida,Sector 62,Villa,2.0,1342,195.2,Agent Referral,AG03,76,Available
+2023,2026-7-15,Noida,,Residential Plot,,1800,1.19 Cr,WhatsApp,AG09,52,Sold
+2024,2026-4-16,Noida,Sector 137,Apartment,3.0,,108.9,Walk-in,AG11,32,Available
+2025,2026-5-17,Ghaziabad,Indirapuram,Villa,2.0,946,96.7,App,AG06,89,Available
+2013,2026-7-06,Gurgaon,Sector 82,Residential Plot,,1200,106.5,App,AG05,113,Available
+2065,2026-5-19,Ghaziabad,Raj Nagar Extension,Villa,1.0,407,30.0,Website,AG11,101,Sold
+2090,2026-5-19,Noida,Sector 137,Apartment,2.0,988,76.3,App,AG10,48,Available
+2044,2026-4-07,Noida,Sector 137,Builder Floor,4.0,3192,,App,AG04,5,Sold
+2036,2026-6-17,Ghaziabad,Raj Nagar Extension,Villa,4.0,,209.2,Website,AG01,5,Sold
+2014,2026-5-22,Greater Noida,Greater Noida West,Builder Floor,4.0,2888,149.2,WhatsApp,AG08,73,Available
+2056,2026-6-26,Noida,Sector 150,Residential Plot,,1200,106.6,Agent Referral,AG05,67,Available
+2067,05/7/2026,GURGAON,Indirapuram,apartment,3.0,1350,93.2,App,AG10,106,Available
+2057,2026-6-25,Greater Noida,Alpha 1,Builder Floor,2.0,,113.9,WhatsApp,AG03,71,Available
+2083,2026-4-09,Gurgaon,Sector 82,Villa,3.0,1329,202.1,Website,AG06,45,Sold
+2007,11/6/2026,Greater noida,Sohna Road,Apartment,3.0,2166,172.2,Website,AG05,28,Sold
+2072,2026-6-09,Greater Noida,Greater Noida West,Apartment,4.0,1724,93.0,WhatsApp,AG01,4,Sold
+2027,2026-7-12,Gurgaon,Sector 82,Villa,2.0,938,1.41 Cr,Website,AG12,20,Sold
+2082,19/5/2026,Ghaziabad,Indirapuram,Builder Floor,3.0,1287,76.1,Agent Referral,AG01,72,Available
+2051,2026-4-25,Greater Noida,Greater Noida West,Residential Plot,,900,39.3,Walk-in,AG10,6,Sold
+2064,2026-6-12,Gurgaon,Sohna Road,Villa,3.0,1812,201.9,Walk-in,AG05,79,Available
+2049,2026-5-07,Gurgaon,Sector 82,Residential Plot,,2400,176.2,WhatsApp,AG11,72,Available
+2022,2026-4-20,Noida,Sector 150,Residential Plot,,2400,206.0,Website,AG02,77,Sold
+2026,2026-6-07,Gurgaon,Sohna Road,Builder Floor,2.0,1214,96.3,WhatsApp,AG04,88,Available
+2034,2026-4-13,Gurgaon,Sector 82,residential plot,,2400,195.6,Walk-in,,28,Available
+2030,2026-4-21,Ghaziabad,Raj Nagar Extension,Villa,4.0,3220,191.0,App,AG07,75,Available
+2040,2026-6-19,Gurgaon,,Villa,2.0,1790,281.4,WhatsApp,AG04,72,Available
+2015,2026-6-08,Gurgaon,Sector 82,Apartment,1.0,419,39.6,WhatsApp,AG05,68,Available
+2058,2026-4-12,Greater Noida,Greater Noida West,Villa,2.0,1280,84.0,Walk-in,AG01,15,Sold
+2043,2026-7-17,Gurgaon,Sector 82,Villa,3.0,2583,361.1,Agent Referral,AG02,107,Available
+2069,15/7/2026,Noida,Sector 137,Residential Plot,,1200,68.7,Walk-in,AG05,88,Available
+2004,2026-4-15,Greater Noida,Greater Noida West,Villa,3.0,1206,68.5,Agent Referral,AG07,87,Available
+2012,2026-5-01,ghaziabad ,Sector 82,Apartment,1.0,506,51.1,Walk-in,AG06,77,Available
+2005,2026-6-01,Noida,Sector 150,Villa,2.0,1576,233.9,Website,AG10,32,Available
+2046,2026-7-27,Ghaziabad,Indirapuram,Residential Plot,,900,47.6,Walk-in,AG10,51,Sold
+2071,2026-5-21,Ghaziabad,,Villa,3.0,2250,,Agent Referral,,95,Sold
+2061,2026-4-04,Gurgaon,Sohna Road,Apartment,2.0,1462,107.0,Agent Referral,AG05,-15,Sold
+2085,2026-7-16,Gurgaon,Sohna Road,Villa,2.0,1488,,Walk-in,AG12,20,Sold
+2073,2026-5-18,Noida,Sector 62,Villa,1.0,786,105.7,App,AG11,14,Available
+2084,2026-5-16,Greater Noida,Greater Noida West,Residential Plot,,1200,57.9,Walk-in,AG06,94,Available
+2020,03/5/2026,Noida,Sector 137,Apartment,4.0,2236,1.65 Cr,Website,AG08,43,Available
+2060,2026-4-20,Gurgaon,Sector 82,Apartment,3.0,2082,225.5,Website,AG12,5,Sold
+2039,2026-5-17,Greater Noida,Alpha 1,Villa,4.0,2748,209.8,Walk-in,AG09,84,Sold
+2070,2026-5-16,Gurgaon,Sohna Road,Builder Floor,2.0,1550,118.1,Website,AG09,19,Available
+2003,2026-5-20,Greater Noida,Greater Noida West,Apartment,1.0,418,20.9,Website,AG08,27,Sold
+2032,2026-6-06,Ghaziabad,Indirapuram,Builder Floor,2.0,1642,108.0,Website,AG08,63,Available
+2080,01/6/2026,Greater Noida,Alpha 1,Builder Floor,1.0,585,30.5,Agent Referral,AG11,109,Available
+2052,2026-5-27, noida,,Builder Floor,2.0,916,,App,AG05,29,Available
+2071,2026-5-21,Ghaziabad,,Villa,3.0,2250,,Agent Referral,,95,Sold
+2037,2026-4-14,Gurgaon,Sohna Road,Residential Plot,,900,61.2,Website,AG03,30,Sold
+2047,2026-5-08,Greater Noida,Greater Noida West,Builder Floor,3.0,2139,107.5,Agent Referral,AG03,78,Available
+2005,2026-6-01,Noida,Sector 150,Villa,2.0,1576,233.9,Website,AG10,32,Available
+2068,2026-5-28,Greater noida,Sector 150,Residential Plot,,2400,239.3,Website,AG06,18,Sold
+2001,2026-7-21,Gurgaon,Sohna Road,Residential Plot,,1200,Rs. 91.6 Lac,Walk-in,AG03,26,Sold
+2059,2026-5-18,Ghaziabad,Raj Nagar Extension,Builder Floor,4.0,2428,104.9,Website,AG07,75,Available
+2006,2026-4-07,Gurgaon,Sector 82,Villa,3.0,1302,179.9,App,AG01,5,Sold
+2026,2026-6-07,Gurgaon,Sohna Road,Builder Floor,2.0,1214,96.3,WhatsApp,AG04,88,Available
+2002,2026-4-20,Ghaziabad,Indirapuram,Apartment,3.0,2442,171.8,WhatsApp,AG08,116,Available
+2089,2026-7-01,Noida,Sector 137,Builder Floor,2.0,1734,119.9,Walk-in,AG08,10,Available
+2042,2026-7-14,Noida,Sector 137,apartment,4.0,1940,137.1,WhatsApp,AG05,11,Sold
+2010,2026-4-07,Greater Noida,Greater Noida West,Villa,3.0,1665,107.3,App,AG07,116,Available
+2019,2026-6-23,Ghaziabad,Indirapuram,apartment,1.0,643,46.2,Agent Referral,AG01,119,Sold
+2087,2026-5-08,Ghaziabad,Indirapuram,Apartment,3.0,2616,181.3,App,AG11,56,Sold
+2048,2026-5-08,Ghaziabad,Indirapuram,Builder Floor,2.0,1708,117.9,App,AG12,15,Sold
+2066,2026-6-03,Gurgaon,Sector 82,Villa,4.0,,320.0,App,AG07,9,Available
+2076,2026-4-15,Ghaziabad,Raj Nagar Extension,Builder Floor,3.0,2202,104.4,Agent Referral,AG02,50,Available
+2078,2026-6-10,Noida,Sector 150,Villa,3.0,2313,325.2,App,AG04,100,Available
+2045,2026-4-16,Ghaziabad,Raj Nagar Extension,Villa,2.0,1434,97.0,Walk-in,AG02,66,Available
+2088,2026-6-09,Greater Noida,Alpha 1,Builder Floor,3.0,1851,120.3,Website,AG08,70,Sold
+2086,2026-4-15,Noida,Sector 137,Villa,1.0,812,80.9,Walk-in,AG11,51,Sold
+2054,2026-6-01,Gurgaon,Sohna Road,residential plot,,1200,83.2,Website,AG04,79,Sold
+2016,2026-5-08,Gurgaon,Sohna Road,Builder Floor,4.0,3600,259.5,WhatsApp,AG09,11,Available
+2077,2026-4-03,Gurgaon,Sohna Road,Residential Plot,,,125.3,Agent Referral,AG04,108,Available
+2008,2026-4-02,Gurgaon,Sector 82,Builder Floor,2.0,1522,155.7,WhatsApp,AG08,15,Sold
+2081,2026-5-06,Gurgaon,,Villa,3.0,2028,303.7,Website,AG08,22,Available
+2031,2026-4-15,Noida,Sector 137,Builder Floor,2.0,1614,117.7,Website,AG11,9,Sold
+2028,2026-5-27,ghaziabad ,Indirapuram,Apartment,3.0,1923,131.5,WhatsApp,AG07,38,Available
+2063,2026-7-18,Noida,Sector 137,Builder Floor,3.0,1923,133.7,Walk-in,,24,Sold
+2009,2026-7-21,Greater Noida,Alpha 1,Builder Floor,4.0,3172,199.5,WhatsApp,AG02,19,Sold
+2074,2026-7-24,Gurgaon,Sohna Road,Villa,2.0,1146,1.32 Cr,App,AG02,46,Available
+2017,09/4/2026,Noida,Sector 137,Builder Floor,2.0,1566,1.23 Cr,WhatsApp,AG08,5,Sold
+2062,2026-4-18, noida,Raj Nagar Extension,Apartment,4.0,2508,128.1,Walk-in,,106,Available
+2079,2026-6-15,Ghaziabad,Raj Nagar Extension,Apartment,2.0,1526,66.3,Walk-in,AG05,59,Available
